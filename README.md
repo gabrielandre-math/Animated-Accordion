@@ -1,2 +1,2 @@
-# Animated-Accordion-
+# Animated-Accordion
 A simple example
