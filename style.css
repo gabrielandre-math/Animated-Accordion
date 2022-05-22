@@ -36,9 +36,7 @@ button.accordion {
   transition: 0.4s;
 }
 
-button:focus {
-  outline: none;
-}
+button:focus { outline: none; }
 
 button.accordion.active,
 button.accordion:hover {
