@@ -31,7 +31,6 @@ button.accordion {
   font-size: 18px;
   transition: 0.4s;
 }
-
 button:focus { outline: none; }
 
 button.accordion.active,
