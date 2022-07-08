@@ -1,5 +1,5 @@
 # Animated-Accordion
-A simple example
+A simple example.
  
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/zYpGgNg
  
